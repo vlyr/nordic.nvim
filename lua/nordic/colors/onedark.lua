@@ -10,7 +10,7 @@ local palette = {
     black = '#191D24',
 
     -- Grays.
-    gray0 = '#1e222a',
+    gray0 = '#0d1119',
     gray1 = '#282c34',
     gray2 = '#353b45',
     gray3 = '#373b43',
