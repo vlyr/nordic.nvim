@@ -8,7 +8,6 @@ A Neovim colorscheme based on [Nord](https://www.nordtheme.com/), but Aurora > F
 
 # 📷 Showcase
 
-*Nvim-tree, lsp, bar-bar, lualine and treesitter:*
 ![image](https://i.imgur.com/wGjwcdK.png)
 
 </details>
